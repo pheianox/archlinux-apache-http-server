@@ -1,4 +1,4 @@
-# How to use Apache HTTP server on Arch Linux
+# Apache HTTP server on Arch Linux
 
 
 ![Apache HTTP Project](https://httpd.apache.org/images/httpd_logo_wide_new.png)
