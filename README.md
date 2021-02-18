@@ -5,11 +5,13 @@
 
 
 
-## Installation 
+## Installation
 1. Open your terminal.
 2. Update your system. `sudo pacman -Syu`
-3. Install Apache. `sudo pacman -S apache`
-4. Uncomment *#LoadModule unique_id_module modules/mod_unique_id.so* in  **/etc/httpd/conf/httpd.conf** file and save changes.
+4. Install Apache. `sudo pacman -S apache`
+5. Open **/etc/httpd/conf/httpd.conf** file in any text editor.
+6. Uncomment *#LoadModule unique_id_module modules/mod_unique_id.so*.
+7. Save the changes and that's it.
 
 ## Basic commands
 Command | Action
